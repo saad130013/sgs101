@@ -1,5 +1,5 @@
-openpyxl
 reportlab
 arabic-reshaper
 python-bidi
 pandas
+openpyxl
